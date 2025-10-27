@@ -1,0 +1,11 @@
+Elevator Pitch - EduMentor (60-90s)
+
+Hola, soy Brayan Rafael Mina Rodriguez, carnet MR100518.
+Mi app se llama EduMentor y ayuda a estudiantes universitarios a organizar sus estudios con recomendaciones inteligentes.
+
+Problema: muchos estudiantes no tienen un plan claro ni constancia.
+Solucion: una app no-code con login OTP que registra horas y materias y te da consejos personalizados (IA).
+
+OPEX mensual: 50 USD. Punto de equilibrio: 50 usuarios a 1 USD/mes.
+El MVP esta en Glide y puede integrar IA real con Make + OpenAI.
+Gracias.
