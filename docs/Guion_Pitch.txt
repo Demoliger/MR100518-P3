@@ -1,5 +1,4 @@
-Elevator Pitch - EduMentor (60-90s)
-
+Elevator Pitch - EduMentor 
 Hola, soy Brayan Rafael Mina Rodriguez, carnet MR100518.
 Mi app se llama EduMentor y ayuda a estudiantes universitarios a organizar sus estudios con recomendaciones inteligentes.
 
